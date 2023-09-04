@@ -1,8 +1,5 @@
 # travel-world
-Olá seja bem vindo ao meu projeto Travel-World.
-Este Projeto foi desenvolvido para um cliente que tinha a necessidade de colocar seu negocio em um nivél Competitivo com o mercado.
-Site desenvolvido do zero de Acordo com suas necessidades e exigências.
-utilizei, JavaScript E Css3 para criar as animações.
+Olá! Seja bem-vindo ao meu projeto Travel-World. Este projeto foi desenvolvido para atender às necessidades de um cliente que desejava posicionar seu negócio em um patamar competitivo no mercado. O site foi criado do zero, levando em consideração suas necessidades e requisitos específicos. Utilizei JavaScript e CSS3 para criar as animações.
 
 <a href ='https://travel-world-blue.vercel.app/'>click aqui para conhecer</a>
 
